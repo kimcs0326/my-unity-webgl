@@ -1,14 +1,14 @@
-\# PROJECT
+PROJECT
 
 
 
-\## 1. 수업 중 만든 게임 서비스 URL
+1. 수업 중 만든 게임 서비스 URL
 
 \- \*\*게임 플레이 링크\*\*: https://kimcs0326.github.io/my-unity-webgl/
 
 
 
-\## 2. 학기말 웹 서비스 게임 기획안
+2. 학기말 웹 서비스 게임 기획안
 
 
 
